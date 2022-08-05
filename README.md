@@ -12,4 +12,10 @@
 - 📫 How to reach me: c.salhua@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:  I'm a funny person by the way xD
+</br>
+<div align="center">
+  <a href="https://www.github.com/CarlaSalHua">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlaSalHua&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaSalHua&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
