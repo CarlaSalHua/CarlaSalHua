@@ -5,6 +5,6 @@ Hi!👋  It's Carla
 - 👯 I’m looking to collaborate on front-end web & app projects. 
 - 🤔 I’m looking for new and better opportunities.
 - 💬 Ask me about your doubts and new proposals.
-- 📫 How to reach me: LinkedIn, Instagram & GitHub
+- 📫 How to reach me: LinkedIn & GitHub
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:  I'm a funny person by the way xD
