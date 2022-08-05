@@ -8,3 +8,4 @@ Hi!👋  It's Carla
 - 📫 How to reach me: LinkedIn & GitHub
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:  I'm a funny person by the way xD
+
