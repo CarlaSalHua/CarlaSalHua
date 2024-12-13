@@ -1,7 +1,7 @@
 ### Hi!👋  It's Carla
 ##
 <div>
-<img align="right" alt="Carla-pic" height="250" style="border-radius:50px;" src="https://c.neh.tw/thumb/f/720/comvecteezy227854.jpg">
+<!-- <img align="right" alt="Carla-pic" height="250" style="border-radius:50px;" src="https://c.neh.tw/thumb/f/720/comvecteezy227854.jpg"> -->
 </div>
 
 - 🔭 I’m currently working as web and mobile app developer.
@@ -11,7 +11,7 @@
 - 💬 Ask me about your doubts and new proposals.
 - 📫 How to reach me: c.salhua97@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact:  I'm a funny person by the way xD
+- ⚡ Fun fact:  I love sea food
 </br>
 
   ### SOCIAL:
