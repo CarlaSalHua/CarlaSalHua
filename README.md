@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on front-end web & app projects. 
 - 🤔 I’m looking for new and better opportunities.
 - 💬 Ask me about your doubts and new proposals.
-- 📫 How to reach me: c.salhua97@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:  I love sea food
 </br>
